@@ -1,0 +1,10 @@
+einops==0.8.0
+matplotlib==3.10.0
+mne==1.9.0
+numpy==1.23.5
+Pillow==11.0.0
+scikit_learn==1.6.0
+scipy==1.14.1
+torch==2.2.2
+torchsummary==1.5.1
+torchvision==0.17.2
