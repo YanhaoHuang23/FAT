@@ -32,3 +32,10 @@ fers a promising direction for future research in EEG emotion analysis.
 - Python 3.10
 - PyTorch 2.2.2
 - CUDA 11.8+ (if using GPU)
+
+# Datasets:
+Please refer to the methodological division in the paper
+- [SEED](https://bcmi.sjtu.edu.cn/~seed/)  
+  > A multi-subject emotion recognition dataset with 3-class labels (positive, neutral, negative) recorded via 62-channel EEG.
+- [SEED-IV](https://bcmi.sjtu.edu.cn/~seed/seed-iv.html)  
+  > A 4-class version of SEED, using similar experimental settings but with an expanded emotion label set.
