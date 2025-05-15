@@ -29,4 +29,4 @@ fers a promising direction for future research in EEG emotion analysis.
 <p align="center"><b>Figure:</b> Overview of the FAT model architecture.</p>
 
 # Requirements:
-
+- Python 3.10
