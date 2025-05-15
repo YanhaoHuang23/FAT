@@ -45,3 +45,5 @@ Please refer to the methodological division in the paper
   > A 7-class dataset for fine-grained emotion recognition using 62-channel EEG across multiple sessions.
 - [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/)   
   > Dataset for emotion analysis using EEG and peripheral physiological signals (32 channels), includes video-based stimuli.
+# Citation
+If you use this repository or model in your research, please cite 😊:
