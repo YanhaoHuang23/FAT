@@ -1,5 +1,5 @@
 # FAT 🧠 Fourier Adjacency Transformer for EEG Emotion Recognition
-
+(Early accept by MICCAI 2025)
 This is the **official implementation** of the paper:
 
 > **A Novel Fourier Adjacency Transformer for Advanced EEG Emotion Recognition**
