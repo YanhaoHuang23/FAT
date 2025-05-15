@@ -30,3 +30,5 @@ fers a promising direction for future research in EEG emotion analysis.
 
 # Requirements:
 - Python 3.10
+- PyTorch 2.2.2
+- CUDA 11.8+ (if using GPU)
