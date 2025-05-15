@@ -39,3 +39,9 @@ Please refer to the methodological division in the paper
   > A multi-subject emotion recognition dataset with 3-class labels (positive, neutral, negative) recorded via 62-channel EEG.
 - [SEED-IV](https://bcmi.sjtu.edu.cn/~seed/seed-iv.html)  
   > A 4-class version of SEED, using similar experimental settings but with an expanded emotion label set.
+- [SEED-V](https://bcmi.sjtu.edu.cn/~seed/seed-v.html)
+  > A 5-class EEG emotion dataset with higher emotional resolution. Includes: joy, sadness, anger, fear, neutral.
+- [SEED-VII](https://bcmi.sjtu.edu.cn/~seed/seed-vii.html)
+  > A 7-class dataset for fine-grained emotion recognition using 62-channel EEG across multiple sessions.
+- [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/)   
+  > Dataset for emotion analysis using EEG and peripheral physiological signals (32 channels), includes video-based stimuli.
