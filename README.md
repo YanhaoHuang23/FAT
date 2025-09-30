@@ -47,13 +47,13 @@ Please refer to the methodological division in the paper
   > Dataset for emotion analysis using EEG and peripheral physiological signals (32 channels), includes video-based stimuli.
 # Citation
 If you use this repository or model in your research, please cite 😊:
-@InProceedings{ WanJin_Anovel_MICCAI2025,
-                 author = { Wang, Jinfeng AND Huang, Yanhao AND Song, Sifan AND Wang, Boqian AND Su, Jionglong AND Ding, Jiaman },
-                 title = { { A novel Fourier Adjacency Transformer for advanced EEG emotion recognition } }, 
-                 booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
-                 year = {2025},
-                 publisher = {Springer Nature Switzerland},
-                 volume = { LNCS 15971 },
-                 month = {October},
-                 pages = { 13 -- 23 },
-              }
+@InProceedings{WanJin_Anovel_MICCAI2025,
+        author = { Wang, Jinfeng AND Huang, Yanhao AND Song, Sifan AND Wang, Boqian AND Su, Jionglong AND Ding, Jiaman},
+        title = { { A novel Fourier Adjacency Transformer for advanced EEG emotion recognition } },
+        booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
+        year = {2025},
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 15971},
+        month = {September},
+        page = {13 -- 23}
+}
