@@ -6,7 +6,7 @@ This is the **official implementation** of the paper:
 
 📄 **Paper:** [Click here to read the paper](https://arxiv.org/pdf/2503.13465)
 
-[📄 View/Download my PDF](0161.pdf)
+[📄 View/Download my PDF](0161_paper.pdf)
 
 > **Abstract**
 > EEG emotion recognition faces significant hurdles due to
